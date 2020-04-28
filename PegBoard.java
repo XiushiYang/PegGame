@@ -2,11 +2,9 @@ import java.util.*;
 
 public class PegBoard implements Cloneable
 {
-	//	5450 Assignment 8
-	//	Xiushi Yang
-    //       A					0
-    //      B C				   1 2
-    //     D E F			  3 4 5
+    //       A			0
+    //      B C		       1 2
+    //     D E F	      3 4 5
     //    G H I J            6 7 8 9
     //   K L M N O        10 11 12 13 14
     
