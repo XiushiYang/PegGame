@@ -9,14 +9,14 @@ public class PegBoard implements Cloneable
     //   K L M N O        10 11 12 13 14
     
     static final String [] MOVES = {
-		"ABD","ACF",
+	"ABD","ACF",
         "BEI","BDG",
         "CEH","CFJ",
         "DBA","DEF",
-		"DHM","DGK",
+	"DHM","DGK",
         "EIN","EHL",
         "FCA","FED",
-		"FIM","FJO",
+	"FIM","FJO",
         "GDB","GHI",
         "HEC","HIJ",
         "IHG","IEB",
@@ -24,7 +24,7 @@ public class PegBoard implements Cloneable
         "KGD","KLM",
         "LHE","LMN",
         "MLK","MHD",
-		"MIF","MNO",
+	"MIF","MNO",
         "NML","NIE",
         "ONM","OJF"
     };
